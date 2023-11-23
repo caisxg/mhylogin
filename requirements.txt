@@ -1,0 +1,14 @@
+pycryptodome
+jsonpath
+requests
+PyExecJS2
+loguru
+chardet
+user-agents
+httpx>=0.21.1
+crontab>=1.0.1
+PyYAML~=6.0
+pytz
+httpx[http2]
+httpcore
+2captcha-python
